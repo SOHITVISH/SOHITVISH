@@ -85,7 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SOHITVISh/SOHITVISh/output/snake.svg" alt="Snake animation" />
 
 ###
 
