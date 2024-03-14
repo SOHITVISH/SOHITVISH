@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋! My name is Sohit Vishwakarma and I'm a Passionate Software developer, from india</h2>
+<h2 align="left">Hi👋! My name is Sohit Vishwakarma and I'm a Passionate Software developer, from india</h2>
 
 ###
 
