@@ -92,12 +92,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SOHITVISh/count.svg?"  />
-</div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohitvish&show_icons=true&locale=en&layout=compact" alt="sohitvish" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohitvish&show_icons=true&locale=en" alt="sohitvish" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohitvish&" alt="sohitvish" /></p>
 
