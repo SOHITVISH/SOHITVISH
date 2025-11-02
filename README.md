@@ -1,11 +1,5 @@
 <h2 align="left">Hi👋! My name is Sohit Vishwakarma and I'm a Passionate Software developer, from india</h2>
 
-###
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohitvish&label=Profile%20views&color=0e75b6&style=flat" alt="sohitvish" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohitvish" alt="sohitvish" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ###
