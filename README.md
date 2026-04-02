@@ -1,26 +1,27 @@
 <h2 align="left">Hi 👋 I'm Sohit Vishwakarma</h2>
 
-💻 Software Engineer (Aspiring) | IT Infra & Network Engineer  
+💻 Software Engineer  
 📍 Ayodhya, India  
 
-🚀 Currently working at **S K Integrated Consultants** as an **IT Infra Network Engineer** at **MVI Airport, Ayodhya**
+🚀 Currently working as an **L3 IT Infra Network Engineer** at **MVI Airport, Ayodhya**  
+💡 Background in Networking, focused on Software Development
 
 ---
 
 ### 💡 About Me
 
-I am a Software Engineer in progress with a strong background in IT Infrastructure and Networking.
+I am a Software Engineer with hands-on experience in building web applications and working with real-world systems.
 
-🔧 2+ years of hands-on experience in:
-- Layer 2 & Layer 3 Network Configuration  
-- Switch Management & Network Troubleshooting  
-- IT Infrastructure & CCTV (VMS Systems)  
+Alongside development, I have 2+ years of experience managing large-scale IT infrastructure in a production environment.
 
-💻 Alongside my infrastructure role, I actively develop software applications:
-- Building scalable and responsive web applications  
-- Working with modern frontend & backend technologies  
+---
 
-🎯 My goal is to transition into a full-time Software Engineering role and build impactful real-world applications.
+### 💻 Software Engineering
+
+- Build scalable web applications using **React, Next.js & Node.js**  
+- Develop REST APIs and backend services  
+- Work with databases like **MongoDB & SQL**  
+- Focus on clean, maintainable, and efficient code  
 
 ---
 
@@ -40,23 +41,23 @@ I am a Software Engineer in progress with a strong background in IT Infrastructu
 
 ---
 
-### 💻 What I Do as a Developer
+### 📡 Networking Experience (Added Strength)
 
-- Build scalable web applications using React & Next.js  
-- Develop backend services using Node.js  
-- Work with databases like MongoDB & SQL  
-- Focus on writing clean, maintainable, and efficient code  
+- Layer 2 & Layer 3 Networking  
+- Switch Configuration, VLANs & Routing  
+- Network Troubleshooting & Monitoring  
+- IT Infrastructure & CCTV (VMS Systems)  
+
+💡 This gives me a strong understanding of system performance, scalability, and real-world environments.
 
 ---
 
-### 📡 Networking Background (My Strength)
+### 💼 Experience Snapshot
 
-- Layer 2 & Layer 3 Networking  
-- Switch Configuration & VLAN Management  
-- Network Troubleshooting & Monitoring  
-- IT Infrastructure Support  
-
-💡 This experience helps me understand real-world system architecture and performance.
+- IT Infra Network Engineer (L3) – Airport Infrastructure  
+- Software Development Training (6 months)  
+- Software Developer Internship  
+- Analyst – Wipro (short-term)  
 
 ---
 
@@ -85,10 +86,10 @@ I am a Software Engineer in progress with a strong background in IT Infrastructu
 
 ---
 
-### 🚀 Vision
+### 🚀 Focus
 
-Building scalable, efficient, and real-world impactful software systems  
+Building scalable, efficient, and production-ready software systems  
 
 ---
 
-⭐ If you like my work, feel free to connect!
+⭐ Open to Software Engineering opportunities
