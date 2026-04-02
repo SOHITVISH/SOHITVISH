@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/sohit-vishwakarma" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/SOHITVISH" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&style=for-the-badge"/>
   </a>
 </p>
