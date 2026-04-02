@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I'm Sohit Vishwakarma</h2>
 
-💼 IT Infra & Network Engineer | Software Developer  
+💻 Software Engineer (Aspiring) | IT Infra & Network Engineer  
 📍 Ayodhya, India  
 
 🚀 Currently working at **S K Integrated Consultants** as an **IT Infra Network Engineer** at **MVI Airport, Ayodhya**
@@ -8,16 +8,19 @@
 ---
 
 ### 💡 About Me
-🔧 2+ years of experience in IT Infrastructure & Networking  
-🌐 Skilled in Layer 2 & Layer 3 Network Configuration  
-🛠️ Switch Configuration, Network Management & Troubleshooting  
-📡 Experience with CCTV Systems & VMS Monitoring  
 
-💻 Also working as a Software Developer:
-- Building modern web applications  
-- Experience with frontend & backend technologies  
+I am a Software Engineer in progress with a strong background in IT Infrastructure and Networking.
 
-🎯 Goal: Transitioning towards AI Engineering & advanced software systems  
+🔧 2+ years of hands-on experience in:
+- Layer 2 & Layer 3 Network Configuration  
+- Switch Management & Network Troubleshooting  
+- IT Infrastructure & CCTV (VMS Systems)  
+
+💻 Alongside my infrastructure role, I actively develop software applications:
+- Building scalable and responsive web applications  
+- Working with modern frontend & backend technologies  
+
+🎯 My goal is to transition into a full-time Software Engineering role and build impactful real-world applications.
 
 ---
 
@@ -37,13 +40,23 @@
 
 ---
 
-### 📡 Networking & Infrastructure
+### 💻 What I Do as a Developer
+
+- Build scalable web applications using React & Next.js  
+- Develop backend services using Node.js  
+- Work with databases like MongoDB & SQL  
+- Focus on writing clean, maintainable, and efficient code  
+
+---
+
+### 📡 Networking Background (My Strength)
 
 - Layer 2 & Layer 3 Networking  
-- Switch Configuration & VLANs  
-- Network Troubleshooting  
-- IT Infrastructure Management  
-- CCTV & VMS Systems  
+- Switch Configuration & VLAN Management  
+- Network Troubleshooting & Monitoring  
+- IT Infrastructure Support  
+
+💡 This experience helps me understand real-world system architecture and performance.
 
 ---
 
@@ -72,10 +85,9 @@
 
 ---
 
-### 🔥 Fun Fact
+### 🚀 Vision
 
-⚡ I combine Networking + Software to solve real-world infrastructure problems  
-🚀 Building systems that are both reliable and scalable  
+Building scalable, efficient, and real-world impactful software systems  
 
 ---
 
