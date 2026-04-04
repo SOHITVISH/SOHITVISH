@@ -4,7 +4,7 @@
 📍 Ayodhya, India  
 
 🚀 Currently working as an **L3 IT Infra Network Engineer** at **MVI Airport, Ayodhya**  
-💡 Background in Networking, focused on Software Development
+💡 Background in Networking and Software Development
 
 ---
 
