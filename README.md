@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋 I'm Sohit Vishwakarma</h2>
 
-💻 Software Engineer  
+💻 Software | Network Engineer  
 📍 Ayodhya, India  
 
 🚀 Currently working as an **L3 IT Infra Network Engineer** at **MVI Airport, Ayodhya**  
